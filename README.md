@@ -32,6 +32,6 @@
  
 ***
 Ask me anything here
-or email me
+or [email me](mailto:gmsanchezgaray@gmail.com)
 
 `Happy Coding! 😊`
