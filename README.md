@@ -1,5 +1,8 @@
 ### Hi, I'm Gonza 👋 👨‍💻
-##### I focus mainly in front-end and design.
+
+***
+
+#### I focus mainly in front-end and design.
 > I strive while using both the logical and creative part of the brain. I feel most my place while continuosly operating in these roles as a front-end developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. My working principle is learning by doing.
 > 
 - 🌱 I've an expertise in graphic design tools and theory, but I keep my mind open to new things, I love learning.
@@ -7,6 +10,7 @@
 - 📫 [ [LinkedIn](https://www.linkedin.com/in/gmsanchezgaray/), [Behance](https://www.behance.net/gonzaasanchez), [GiHhub](https://github.com/gmsanchezgaray) ]
 > 
 
+***
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,6 +28,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)&nbsp;
 
+***
 Ask me anything here
 or email me
 
