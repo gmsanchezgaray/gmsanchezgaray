@@ -11,7 +11,7 @@
 <a href="https://www.behance.net/gonzaasanchez" target="_blank"><img src="https://img.shields.io/badge/Behance-3FB561.svg?&style=flat-square&logo=behance&logoColor=white" alt="Instagram"></a> ,
 <a href="https://github.com/gmsanchezgaray" target="_blank"><img src="https://img.shields.io/badge/GiHhub-3FB561.svg?&style=flat-square&logo=github&logoColor=white" alt="Facebook"></a>
  
-> 
+***
 
 
 ### 🛠 &nbsp;Tech Stack
