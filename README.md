@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)&nbsp;
 
+Ask me anything here
+or email me
 
-[iconos de donde encontrarme, , , ,]
-
-[]()](https://nodesource.com/products/nsolid)
+`Happy Coding! 😊`
